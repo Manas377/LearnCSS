@@ -1,0 +1,195 @@
+/* ASSIGNMENT ONE */
+
+.bd-card {
+    background-color: #1FE592;
+    /* border: 1px solid red; */
+    width: 600px;
+    padding: 200px 100px;
+    margin: 200px auto;
+    border-radius: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: x-large;
+    
+
+}
+.bd-card button {
+    border: none;
+    border-radius: 30px;
+    padding: 10px 30px;
+    background-color: white;
+    font-weight: bold;
+    font-size: large;
+}
+
+.bd-card h1 {
+    margin-top: 0px;
+}
+
+/* ASSIGNMENT TWO */
+
+.profile-card {
+    border: 1px solid lightgray;
+    width: 600px;
+    margin: 100px auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 10px;
+
+}
+.profile-card h1 {
+    margin-top: 0px;
+    font-weight: 400;
+}
+
+.profile-upper-section {
+    padding: 30px;
+   }
+
+.profile-upper-section p {
+    font-size: large;
+    color: gray;
+}
+.profile-upper-section img {
+    width: 100px;
+    margin: 30px auto;
+    padding-left: 60px;
+}
+
+.profile-lower-section {
+    border-top: 1px solid lightgray;
+    padding: 10px 30px;
+}
+
+.profile-lower-section h2 {
+    font-size: 1;
+    color: #1E74E9;
+    font-weight: 400;
+}
+
+
+/* ASSINGMENT THREE */
+
+.photos-card {
+    width: 600px;
+    height: 800px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin: 100px auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.photos-card-photo img {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.photos-card-content {
+    padding: 20px 30px;
+}
+
+.photos-card-content img {
+    width:29px;
+    margin-bottom: -7px;
+    margin-right: 20px;
+}
+.photos-card-content h2 {
+    text-transform: uppercase;
+    color: #5F6367;
+    font-weight: 400;
+}
+
+.photos-card-content h1 {
+    font-weight: 400;
+}
+
+.photos-card-content p {
+    color: #5F6367;
+}
+.photos-card-content button {
+    border: 1px solid lightgray;
+    color: #1E74E9;
+    background-color: white;
+    margin-top: 65px;
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: larger;
+
+}
+
+/* ASSIGNMENT FOUR */
+
+.login-card {
+    width: 350px;
+    /* border: 1px solid red; */
+    margin: 200px auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.login-logo {
+    margin: 20px auto;
+    width: 100%;
+    align-items: center;
+    display:flex
+}
+
+.login-card img {
+    margin: 5px auto;;
+}
+
+.login-greeting {
+    margin: 20px auto;
+    width: 100%;
+    text-align: center;
+}
+
+.login-greeting h1 {
+    margin: 20px auto;
+}
+
+.login-inputs {
+    margin: 50px auto;
+}
+
+.login-inputs input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 15px;
+    border-radius: 10px;
+    border: 0.5px solid lightgray;
+    margin: 5px auto;
+
+}
+
+.login-button {
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 20px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 50%;
+    margin: 0px auto;
+}
+
+.login-helper {
+    color: gray;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.login-helper b {
+    color: darkgray;
+}
+
+.login-policy {
+    color: lightgray;
+    text-align: center;
+}
+
+
+
+
+
+
